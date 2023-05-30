@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Giacomo Hermes Ferraro"
+title                    : "G.H.F.'s personal webpage"
 title_separator          : "-"
 name                     : &name "Giacomo Hermes Ferraro"
 description              : &description "I'm currently a PhD student in Sapienza, under the supervision of Federico Pellarin. My research is focused on Drinfeld and Anderson modules, and in particular on the study of special functions and dual special functions."
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Giacomo Hermes Ferraro"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "I was born in Avellino, Italy, in 1997. After receiving a Master's in Mathematics at Scuola Normale Superiore in 2021, I starded my post-graduate studies in Sapienza under the supervision of Federico Pellarin"
+  location         : "Università La Sapienza di Roma"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : 
+  googlescholar    : 
+  email            : "giacomohermes.ferraro@uniroma1.it"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "H3rm3s97"
   google_plus      :
   keybase          :
   instagram        :
