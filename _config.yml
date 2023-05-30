@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Giacomo Hermes Ferraro / Personal Webpage"
+title                    : "Giacomo Hermes Ferraro"
 title_separator          : "-"
 name                     : &name "Giacomo Hermes Ferraro"
 description              : &description "personal description"
