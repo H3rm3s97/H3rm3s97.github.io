@@ -13,7 +13,7 @@ name                     : &name "Giacomo Hermes Ferraro"
 description              : &description "I'm currently a PhD student in Sapienza, under the supervision of Federico Pellarin. My research is focused on Drinfeld and Anderson modules, and in particular on the study of special functions and dual special functions."
 url                      : https://H3rm3s97.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "H3rm3s97/H3rm3s97.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -83,8 +83,8 @@ author:
   name             : "Giacomo Hermes Ferraro"
   avatar           : "profile.png"
   bio              : "I was born in Avellino, Italy, in 1997. After receiving a Master's in Mathematics at Scuola Normale Superiore in 2021, I starded my post-graduate studies in Sapienza under the supervision of Federico Pellarin"
-  location         : "Università La Sapienza di Roma"
-  employer         :
+  location         : "Roma"
+  employer         : "Università La Sapienza"
   pubmed           : 
   googlescholar    : 
   email            : "giacomohermes.ferraro@uniroma1.it"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-6443-564X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
