@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Laurea Triennale (B.Sc.) in Mathematics, Università di Pisa, 2019
+* Laurea Magistrale (M.Sc.) in Mathematics, Università di Pisa, 2021
+* Diploma in Mathematics (M.Sc. equivalent), Scuola Normale Superiore, 2021
 
 Work experience
 ======
